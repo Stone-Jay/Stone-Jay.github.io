@@ -2,4 +2,4 @@
 My blog
 
 # License
-CC BY-SA 3.0
+MIT
